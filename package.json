@@ -1,0 +1,22 @@
+{
+  "name": "graphql-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ralmayer/GraphQL.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ralmayer/GraphQL/issues"
+  },
+  "homepage": "https://github.com/ralmayer/GraphQL#readme",
+  "dependencies": {
+    "graphql": "^14.5.8"
+  }
+}
